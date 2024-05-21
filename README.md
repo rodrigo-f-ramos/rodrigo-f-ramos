@@ -9,7 +9,7 @@
 
 ### :bulb: Conheça mais sobre mim
 
-Em construção
+Olá, sou Rodrigo Ramos, engenheiro de produção e especialista em planejamento e melhoria de processos. Com mais de sete anos de experiência, atuei em diversos segmentos, trabalhando na gestão de fornecedores, planejamento de demanda e business intelligence. Atualmente, lidero projetos de transformação digital e Indústria 4.0 na Finetornos Aerospace, aplicando Business Intelligence e Python para impulsionar a eficiência na indústria. Nos últimos anos, venho me aprofundando em IA e dados para ampliar minhas habilidades e conhecimentos.
 
 ### :rocket: Tecnologias 
 <p align="left"> 

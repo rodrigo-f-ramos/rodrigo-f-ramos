@@ -5,7 +5,6 @@
 
 Sou um Engenheiro de Produção especializado em planejamento e melhoria de processos, com mais de sete anos de experiência em diversos segmentos. Atualmente, lidero projetos de transformação digital e Indústria 4.0 na Finetornos Aerospace, aplicando Business Intelligence e Python para impulsionar a eficiência na indústria. Venho me aprimorando em IA e dados para expandir minhas habilidades e conhecimentos.
 
-- **Localização:** Campinas, SP
 - **E-mail:** rodrigoframos@outlook.com
 - **LinkedIn:** [linkedin.com/in/rodrigoframos](https://www.linkedin.com/in/rodrigoframos)
 
